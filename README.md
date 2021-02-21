@@ -1,2 +1,13 @@
 # Tower-of-Hanoi-C-Program
-The tower of hanoi is a mathematical puzzle. It consists of threerods, and a number of disks of different sizes which can slideonto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top. We have to obtain the same stack on the third rod.
+compile an drun program
+
+Enter the number of disks : 3
+The sequence of moves involved in the Tower of Hanoi are :
+ 
+Move disk 1 from peg A to peg C
+Move disk 2 from peg A to peg B
+Move disk 1 from peg C to peg B
+Move disk 3 from peg A to peg C
+Move disk 1 from peg B to peg A
+Move disk 2 from peg B to peg C
+Move disk 1 from peg A to peg C
